@@ -24,7 +24,7 @@ I'm a **Software Developer** and **ML Researcher**, basically an all-around syst
 
 <div align="middle">
   
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ykamoji&layout=compact&langs_count=10&show_icons=true&hide=Jupyter%20Notebook&theme=moltack)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ykamoji&layout=compact&langs_count=10&hide_title=true&show_icons=true&hide=Jupyter%20Notebook&theme=moltack)
 
 </div>
 
