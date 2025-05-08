@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm a **Software Developer** and **ML Researcher**, basically an all-around systems nerd who thrives in **ML**, **backend development**, and **cloud infrastructure**. I love turning messy data into actionable insights, building resilient systems, and experimenting with cutting-edge models.
+I'm a **Software Developer** and **ML Researcher**, basically an all-around systems nerd who thrives in **ML**, **backend development**, and **cloud infrastructure**. I love turning data into actionable insights, building resilient systems, and experimenting with cutting-edge models.
 
 
 <div>
@@ -25,18 +25,18 @@ I'm a **Software Developer** and **ML Researcher**, basically an all-around syst
 
 <div align="middle">
   
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ykamoji&layout=compact&langs_count=20&hide_title=true&show_icons=true&hide=Jupyter%20Notebook&theme=moltack)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ykamoji&layout=compact&langs_count=20&hide_title=true&show_icons=true&hide=Jupyter%20Notebook&theme=transparent)
 
 </div>
 
 </div>
 
 #### 🔧 Technical Focus
-🧠 Machine Learning & Deep Learning – `PyTorch`, `Lightning`, `Scikit-learn`<br/>
-👁️ Computer Vision, Multimodal Retrieval, Few-Shot Learning<br/>
-🛠️ Backend & Data Engineering – `Python`, `Spark`, `MongoDB`, `SQL`<br/>
-🎨 Web Design & UI Development – `React.js`, `Next.js`, `HTML5`, `CSS3`, `JQuery`<br/>
-☁️ Cloud & DevOps – `AWS`, `Docker`, `AppDynamics`, `CI/CD`
+🧠 Machine Learning & Deep Learning: `PyTorch`, `Lightning`, `Scikit-learn`<br/>
+👁️ `Computer Vision`, `Multimodal Retrieval`, `Few-Shot Learning`<br/>
+🛠️ Backend & Data Engineering: `Python`, `Spark`, `MongoDB`, `SQL`<br/>
+🎨 Web Design & UI Development: `React.js`, `Next.js`, `HTML5`, `CSS3`, `JQuery`<br/>
+☁️ Cloud & DevOps: `AWS`, `Docker`, `AppDynamics`, `CI/CD`
 
 <br/>
 
