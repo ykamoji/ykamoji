@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm a **Software Developer** and **ML Researcher**, basically an all-around systems nerd who thrives in **ML**, **backend development**, and **cloud infrastructure**. I love turning data into actionable insights, building resilient systems, and experimenting with cutting-edge models.
+I'm a **Software Developer** and **ML Enthusiast**, basically an all-around systems nerd who thrives in **ML**, **backend development**, and **cloud infrastructure**. I love turning data into actionable insights, building resilient systems, and experimenting with cutting-edge models.
 
 
 <div>
