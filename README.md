@@ -6,20 +6,18 @@ I'm a **Software Developer** and **ML Enthusiast**, basically an all-around syst
 <div>
 
 <div align="middle">
-  
+
+![AI](https://img.shields.io/badge/AI-333?style=flat&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333?style=flat&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&color=333)
 ![Spring](https://img.shields.io/badge/-Spring-333?style=flat&logo=spring)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apachespark)
-![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+
+
+
 
 </div>
 
