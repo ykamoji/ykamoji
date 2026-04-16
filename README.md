@@ -1,18 +1,19 @@
 # Hi 👋
 
-I'm a **Software Developer** and **ML Enthusiast**, basically an all-around systems nerd who thrives in **ML**, **backend development**, and **cloud infrastructure**. I love turning data into actionable insights, building resilient systems, and experimenting with cutting-edge models.
+I'm a **Software Developer** and **AI Enthusiast**, basically an all-around systems nerd who thrives in **AI**, **backend development**, and **cloud infrastructure**. I love turning data into actionable insights, building resilient systems, and experimenting with cutting-edge models.
 
 
 <div>
 
 <div align="middle">
 
-![AI](https://img.shields.io/badge/AI-333?style=flat&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/%F0%9F%A4%96%E2%9A%99%EF%B8%8F%20Agentic%20AI-333?style=flat)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333?style=flat&logo=python&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&color=333)
-![Spring](https://img.shields.io/badge/-Spring-333?style=flat&logo=spring)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
 
@@ -30,7 +31,8 @@ I'm a **Software Developer** and **ML Enthusiast**, basically an all-around syst
 </div>
 
 #### 🔧 Technical Focus
-🧠 Machine Learning & Deep Learning: `PyTorch`, `Lightning`, `Scikit-learn`<br/>
+🏗️ Agentic Developement, RAG <br/>
+🧠 Machine Learning & Deep Learning: `PyTorch` <br/>
 👁️ `Computer Vision`, `Multimodal Retrieval`, `Few-Shot Learning`<br/>
 🛠️ Backend & Data Engineering: `Python`, `Spark`, `MongoDB`, `SQL`<br/>
 🎨 Web Design & UI Development: `React.js`, `Next.js`, `HTML5`, `CSS3`, `JQuery`<br/>
@@ -38,8 +40,18 @@ I'm a **Software Developer** and **ML Enthusiast**, basically an all-around syst
 
 <br/>
 
+#### Live Demos
+
+👉 https://chronicle-ragent.onrender.com/    <br/>
+👉 https://blog-agent-alpha.vercel.app/
+
 
 #### 🛠️ Key Projects
+📢 [**AI news blog Agent**](https://github.com/ykamoji/blog-agent) &nbsp; &nbsp;&nbsp; 📚 [**Chronicle Ragent**](https://github.com/ykamoji/chronicle-ragent)
+<br/>
+<br/>
+<br/>
+
 🔎 [**Modality-Aware Retriever**](https://github.com/ykamoji/Modality-Aware-MLLM-Retriever)  &nbsp; &nbsp;&nbsp; 🧱 [**3D Reconstruction from 2D**](https://github.com/ykamoji/3d-reconstruction)  &nbsp; &nbsp;&nbsp;
 🖼️ [**Image Classification**](https://github.com/ykamoji/decomp-vision-transformer-KD) &nbsp; &nbsp;&nbsp;  🎯 [**Multi-Loss Distillation Framework**](https://github.com/ykamoji/multi-loss-KD)   &nbsp; &nbsp;&nbsp; <br/><br/>
 🤖 [**Few-Shot Inference**](https://github.com/ykamoji/few-shot-inference) &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚡ [**Real-Time Image Classifier**](https://github.com/ykamoji/pyspark-model-processing)  &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📈 [**Titanic Survival Prediction**](https://github.com/ykamoji/titanic_survival_prediction)
