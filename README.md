@@ -43,11 +43,12 @@ I'm a **Software Developer** and **AI Enthusiast**, basically an all-around syst
 #### Live Demos
 
 👉 https://chronicle-ragent.onrender.com/    <br/>
-👉 https://blog-agent-alpha.vercel.app/
+👉 https://blog-agent-alpha.vercel.app/      <br/>
+👉 https://github-copilot-dashboard.vercel.app/
 
 
 #### 🛠️ Key Projects
-📢 [**AI news blog Agent**](https://github.com/ykamoji/blog-agent) &nbsp; &nbsp;&nbsp; 📚 [**Chronicle Ragent**](https://github.com/ykamoji/chronicle-ragent)
+📢 [**AI news blog Agent**](https://github.com/ykamoji/blog-agent) &nbsp; &nbsp;&nbsp; 📚 [**Chronicle Ragent**](https://github.com/ykamoji/chronicle-ragent)  &nbsp; &nbsp;&nbsp; 📊 [**Github Coilpot Dashbaord**](https://github.comy/kamoji/github-copilot-dashboard)
 <br/>
 <br/>
 <br/>
