@@ -48,7 +48,7 @@ I'm a **Software Developer** and **AI Enthusiast**, basically an all-around syst
 
 
 #### 🛠️ Key Projects
-📢 [**AI news blog Agent**](https://github.com/ykamoji/blog-agent) &nbsp; &nbsp;&nbsp; 📚 [**Chronicle Ragent**](https://github.com/ykamoji/chronicle-ragent)  &nbsp; &nbsp;&nbsp; 📊 [**Github Coilpot Dashbaord**](https://github.comy/kamoji/github-copilot-dashboard)
+📢 [**AI news blog Agent**](https://github.com/ykamoji/blog-agent) &nbsp; &nbsp;&nbsp; 📚 [**Chronicle Ragent**](https://github.com/ykamoji/chronicle-ragent)  &nbsp; &nbsp;&nbsp; 📊 [**Github Coilpot Dashbaord**](https://github.com/ykamoji/github-copilot-dashboard)
 <br/>
 <br/>
 <br/>
